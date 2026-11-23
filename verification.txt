@@ -1,0 +1,11 @@
+Local verification. Not a hosted CI result.
+
+test_counts (test_demo.ExperimentTests) ... ok
+test_output_matches_returned_result (test_demo.ExperimentTests) ... ok
+test_score_ranges (test_demo.ExperimentTests) ... ok
+test_training_normal_only (test_demo.ExperimentTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.076s
+
+OK
