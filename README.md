@@ -26,17 +26,17 @@ These values are generated from `results.json`, not estimated or copied. Rerun t
 
 | Measure | Local result |
 | --- | ---: |
-|  / average precision | 0.948710 |
-|  / f1 | 0.867647 |
-|  / false positive rate | 0.034000 |
-|  / precision | 0.776316 |
-|  / recall | 0.983333 |
-|  / seed | 42 |
-|  / test anomaly rows | 60 |
-|  / test normal rows | 500 |
-|  / threshold | 0.574049 |
-|  / train normal rows | 800 |
-|  / validation normal rows | 200 |
+| Average precision | 0.948710 |
+| F1 | 0.867647 |
+| False positive rate | 0.034000 |
+| Precision | 0.776316 |
+| Recall | 0.983333 |
+| Seed | 42 |
+| Test anomaly rows | 60 |
+| Test normal rows | 500 |
+| Threshold | 0.574049 |
+| Train normal rows | 800 |
+| Validation normal rows | 200 |
 
 `verification.txt` records the local test run. The included GitHub Actions workflow is a reproducible check, not a claim that remote CI has already passed.
 
